@@ -1,0 +1,19 @@
+{
+  "samples": 5000,
+  "fraud_rate": 0.0296,
+  "threshold": 0.5,
+  "roc_auc": 0.9998,
+  "average_precision": 0.9938,
+  "precision": 0.9477,
+  "recall": 0.9797,
+  "f1": 0.9635,
+  "accuracy": 0.9978,
+  "baseline_accuracy": 0.9704,
+  "confusion_matrix": {
+    "tn": 4844,
+    "fp": 8,
+    "fn": 3,
+    "tp": 145
+  },
+  "train_samples": 15000
+}
